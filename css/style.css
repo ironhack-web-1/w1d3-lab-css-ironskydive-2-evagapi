@@ -48,3 +48,17 @@ h5 {
   size: 1.2em;
   line-height: 1em;
 }
+
+ul {
+  list-style-type: none;
+}
+
+.nav-bar {
+  background-color: rgb(25, 33, 41);
+}
+
+.nav-bar a {
+  color: white;
+  text-decoration: none;
+  font-size: 2em;
+}
