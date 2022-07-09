@@ -35,7 +35,7 @@ h2 {
 }
 
 h3 {
-  size: 4.2em;
+  font-size: 4.2em;
   text-align: center;
   line-height: 1em;
 }
@@ -75,4 +75,33 @@ ul {
 
 .quote {
   font-size: 2.5em;
+}
+
+.dark-background {
+  background-color: rgb(25, 33, 41);
+  color: white;
+}
+
+.text {
+  font-size: 2em;
+  font-weight: 100;
+  text-align: center;
+}
+
+.link-btn {
+  background-color: rgb(67, 163, 230);
+  color: white;
+  font-family: Roboto Condensed;
+  font-size: 2em;
+  letter-spacing: 0.5px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.service-box {
+  font-size: 1.7em;
+  text-align: center;
+}
+.service-box img {
+  width: 125px;
 }
